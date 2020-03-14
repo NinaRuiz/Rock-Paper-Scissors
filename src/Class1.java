@@ -44,6 +44,7 @@ public class Class1 {
             }
 
             System.out.println("\nJugador: " + puntuacionJugador + "\nOrdenador: " + puntuacionOrdenador);
+            //Muestra el puntaje que lleva tanto el jugador como el ordenador
         }
     }
 
